@@ -9,6 +9,7 @@ InfoCasas Demo - Task Manager Laravel Api Rest
 - Add Database access data to .env file
 - Run
 	- php artisan migrate
+	- php artisan passport:install
 
 To Test run "php artisan serve"
 
